@@ -1,0 +1,60 @@
+<swiper indicator-dots indicator-color="rgba(225, 225, 225, .6)" indicator-active-color="#fff"	autoplay interval="5000">
+<swiper-item>
+<image src='../../static/uploads/slide_1.jpg'></image>
+</swiper-item>
+<swiper-item>
+<image src='../../static/uploads/slide_2.jpg'></image>
+</swiper-item>
+<swiper-item>
+<image src='../../static/uploads/slide_3.jpg'></image>
+</swiper-item>
+<swiper-item>
+<image src='../../static/uploads/slide_4.jpg'></image>
+</swiper-item>
+<swiper-item>
+<image src='../../static/uploads/slide_5.jpg'></image>
+</swiper-item>
+</swiper>
+
+<view class="title">乐园活动</view>
+<view class="top">
+<navigator url="">
+<image src="/static/uploads/item_1.png"></image>
+</navigator>
+<view class="info">
+<view class="name">疯狂的红包 不一样的撕名牌 大型家庭亲子户外活动</view>
+<view class="extra">
+<text>200人已报名</text>
+<text>本周六开始</text>
+</view>
+<view class="status">免费</view>
+</view>
+</view>
+<view class="title">乐园活动</view>
+<view class="top">
+<navigator url="">
+<image src="/static/uploads/item_1.png"></image>
+</navigator>
+<view class="info">
+<view class="name">疯狂的红包 不一样的撕名牌 大型家庭亲子户外活动</view>
+<view class="extra">
+<text>200人已报名</text>
+<text>本周六开始</text>
+</view>
+<view class="status">免费</view>
+</view>
+</view>
+<view class="title">乐园活动</view>
+<view class="top">
+<navigator url="">
+<image src="/static/uploads/item_1.png"></image>
+</navigator>
+<view class="info">
+<view class="name">疯狂的红包 不一样的撕名牌 大型家庭亲子户外活动</view>
+<view class="extra">
+<text>200人已报名</text>
+<text>本周六开始</text>
+</view>
+<view class="status">免费</view>
+</view>
+</view>
